@@ -1,0 +1,14 @@
+config:
+  server_config:
+    host: 'yourhost'
+    user: 'root'
+    password: 'yourpassword'
+  src_db_config:
+    user: 'root'
+    password: 'yourpassword'
+    database: 'yourdatabase'
+  dst_db_config:
+    user: 'root'
+    password: 'yourpassword'
+    database: 'yourdatabasea'
+  filename: 'backup_dbs.sql'
