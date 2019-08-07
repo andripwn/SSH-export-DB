@@ -9,7 +9,7 @@ jalur SSH
 - Python3
 
 # How to install
-- git clone https://github.com/yusriltakeuchi/SnakeFlash.git
+- git clone https://github.com/andripwn/SSH-export-DB.git
 - pip3 install -r requirements.txt
 
 # How to Run 
